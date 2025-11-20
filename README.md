@@ -2,7 +2,7 @@
 
 A C++ implementation on "Half-Moon Cookie".
 
-This software is provided for the purpose of anonymous review by Euro S&P 2026 reviewers only. See License.md for more details.
+This software is provided for the purpose of anonymous review by EuroS&P 2026 reviewers only. See License.md for more details.
 
 ## Running Protocol
 
